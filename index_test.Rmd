@@ -20,46 +20,77 @@ library(fontawesome)
 
 
 ## Bio 📔
-<p style='text-align: justify;'>[Elisa](http://emarquezz.github.io/) integrates multiple omic and phenotipic data with genome-scale metabolic modelling  for rational strain design and bioprocess optimization project as part of her work at [CCG](https://www.ccg.unam.mx/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the `python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. </p>
+<p style='text-align: justify;'>[Miguel](http://AlbertOmics.github.io/) integrates multiple omic and phenotipic data with genome-scale metabolic modelling  for rational strain design and bioprocess optimization project as part of her work at [CCG](https://www.ccg.unam.mx/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the `python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. </p>
 
 --------------------------
 
 ## Education 🎓
 
+**Ongoing studies**
+
+ Genomic Sciences (LCG), UNAM |&#124; Morelos, Mexico 
+
+**Lab training**
+
+- Lab de Mac
+- Lab de José
+
+------------------------------------
+
+## Languages
+
+
+#### Human
+  
+
 |  |  |
 |:------|:-----------|
-| Masters Candidate in Biochemical Sciences, UNAM |&#124; Morelos, Mexico
-| Bachelor in Genomic Sciences (LCG), UNAM |&#124; Morelos, Mexico |
+| **Spanish** |&#124; Mother tongue 
+| **English** |&#124; B2 |
+
+
+#### Computer 
+
+
+  **Python** <progress id="file" value="85" max = "100"></progress>  Advanced
+
+  + re
+  + NumPy
+  + Pandas
+  + Matplotlib
+  + Seaborn
+  + BioPython
+  
+  **R**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<progress id="file" value="80" max = "100"></progress>  Advanced  
+  
+  + usethis
+  + ggplot
+  + ComplexHeatmap
+  + Bioconductor
+    + recount3
+    + limma
+    + DESeq2
+    + scRNAseq
+    + SingleCellExperiment
 
 
 ------------------------------------
 
-## Internships 🧫/💻
 
-- University of Edinburgh, School of
-Engineering 2019/01 – 2019/04.
-- University of Natural Resources
-and Life Sciences, Vienna, Dpt. of Biotechnology
-2016/12 – 2017/02.
 
---------------------------
+## Other
 
-## Teaching 👩‍🏫
+#### Videogames
 
-|  |  |  |  |
-|:------------------|:------|:--------|:--------|
-| **Professor** of Python II `r fontawesome::fa("python", fill = "gray")`|&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2021 |&#124; Morelos, Mexico
-| **Teaching assistant** of Statistics with R `r fontawesome::fa("r-project", fill = "gray")` |&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2017, 2020, 2021 |&#124; Morelos, Mexico
-| **Teaching assistant** of Bioinformatics and Statistics II |&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2020, 2021 |&#124; Morelos, Mexico
-| **Guest Professor** of Biopython `r fontawesome::fa("python", fill = "gray")`|&#124; [LCG](https://www.lcg.unam.mx/), UNAM |&#124; 2020 |&#124; Morelos, Mexico
-| **Teaching assistant** of Differential Equations II|&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2018, 2019|&#124; Morelos, Mexico |
+**League of Legends** Silver (proudly) - Main Sub 
 
------------------------------------
 
-## Interests ✨
+#### Animal communication 
 
-- Genome-scale metabolic modelling
-- Rational strain desing
-- Bioprocess optimization
-- Teaching
-- Music
+  Dog `r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gray")` *
+  
+  
+  Cat `r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gold")``r fontawesome::fa("star", fill = "Gray")``r fontawesome::fa("star", fill = "Gray")` **
+  
+  <p><small>* 4 stars because I'm not at home 24/7 </p></small>
+  <p><small>** Saved cat's life, but still it is never enough</p></small>
