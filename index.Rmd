@@ -52,7 +52,7 @@ library(fontawesome)
 #### Computer 
 
 
-  **Python** <progress id="file" value="85" max = "100"></progress>  Advanced
+  **Python** <progress id="file" value="85" max = "100"></progress>  Intermediate/Advanced
 
   + re
   + NumPy
@@ -61,7 +61,7 @@ library(fontawesome)
   + Seaborn
   + BioPython
   
-  **R**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<progress id="file" value="80" max = "100"></progress>  Advanced  
+  **R**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<progress id="file" value="80" max = "100"></progress>  Intermediate/Advanced  
   
   + usethis
   + ggplot
