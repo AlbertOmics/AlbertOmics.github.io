@@ -2,12 +2,12 @@
 title: "Miguel Alberto Pantoja Zepeda"
 image: "Alberto.jpeg"
 links:
-  - label: '`r fontawesome::fa("twitter", fill = "#282828")` Twitter'
-    url: "https://twitter.com/naielisha"
-  - label: '`r fontawesome::fa("github", fill = "#282828")` Github'
-    url: "https://github.com/emarquezz"
-  - label:  '`r fontawesome::fa("envelope", fill = "#282828")` Mail'
-    url: "mailto:emarquez@lcg.unam.mx"
+  - label: '`r fontawesome::fa("twitter", fill = "#eee")` Twitter'
+    url: "https://twitter.com/AlberOmics"
+  - label: '`r fontawesome::fa("github", fill = "#eee")` Github'
+    url: "https://github.com/AlberOmics"
+  - label:  '`r fontawesome::fa("envelope", fill = "#eee")` Mail'
+    url: "mailto:mpantoja@lcg.unam.mx"
 
 output:
   postcards::trestles
@@ -19,12 +19,12 @@ library(fontawesome)
 
 
 
-## Bio 📔
-<p style='text-align: justify;'>[Miguel](http://AlbertOmics.github.io/) integrates multiple omic and phenotipic data with genome-scale metabolic modelling  for rational strain design and bioprocess optimization project as part of her work at [CCG](https://www.ccg.unam.mx/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the `python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. </p>
+## Bio `r fontawesome::fa("book", fill = "5F72B6")`
+<p style='text-align: justify;'>I am an undergraduate student with experience in the area of programming, mathematics, cellular and molecular biology. I am currently trying to enter the world transcriptomics with a focus on programming as a way to understand the world around me using my knowledge </p>
 
 --------------------------
 
-## Education 🎓
+## Education  `r fontawesome::fa("graduation-cap", fill = "5F72B6")`
 
 **Ongoing studies**
 
@@ -32,15 +32,34 @@ library(fontawesome)
 
 **Lab training**
 
-- Lab de Mac
-- Lab de José
+|  |  |  |  |
+|:------------------|:------|:--------|:--------|
+| [Synthetic Biology](https://www.ccg.unam.mx/en/synthetic-biology/)|&#124; [CCG](https://www.ccg.unam.mx/), UNAM|&#124; 2021|&#124; Morelos, Mexico
+| [Evolutionary Genomics](https://www.ccg.unam.mx/en/evolutionary-genomics/) |&#124; [CCG](https://www.ccg.unam.mx/), UNAM|&#124; 2018-2020 |&#124; Morelos, Mexico |
+<br>
+
+**Skills**
+
+Synthetic Biology &#124; Supervisor: José Utrilla Carreri
+
++ Programming experience (Python)
++ Genome scale models
++ Tools like antiSMASH 
+
+Evolutionary Genomics &#124; Supervisor: Miguel Ángel Cevallos
+
++ Eletrophoresis
++ Primer design
++ Eckhardt gel
++ Transformation
++ PCR
 
 ------------------------------------
 
-## Languages
+## Languages `r fontawesome::fa("language", fill = "5F72B6")`
 
 
-#### Human
+#### Human `r fontawesome::fa("comment", fill = "#71797E")`
   
 
 |  |  |
@@ -49,10 +68,10 @@ library(fontawesome)
 | **English** |&#124; B2 |
 
 
-#### Computer 
+#### Computer `r fontawesome::fa("code", fill = "#71797E")`
 
 
-  **Python** <progress id="file" value="85" max = "100"></progress>  Intermediate/Advanced
+  `r fontawesome::fa("python", fill = "#71797E")`**Python** <progress id="file" value="85" max = "100"></progress>  Intermediate/Advanced
 
   + re
   + NumPy
@@ -61,7 +80,7 @@ library(fontawesome)
   + Seaborn
   + BioPython
   
-  **R**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<progress id="file" value="80" max = "100"></progress>  Intermediate/Advanced  
+  `r fontawesome::fa("r-project", fill = "#71797E")`**R**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<progress id="file" value="80" max = "100"></progress>  Intermediate/Advanced  
   
   + usethis
   + ggplot
@@ -77,8 +96,7 @@ library(fontawesome)
 ------------------------------------
 
 
-
-## Other
+## Other `r fontawesome::fa("gamepad", fill = "#5F72B6")`
 
 #### Videogames
 
