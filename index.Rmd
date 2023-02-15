@@ -3,9 +3,9 @@ title: "Miguel Alberto Pantoja Zepeda"
 image: "Alberto.jpeg"
 links:
   - label: '`r fontawesome::fa("twitter", fill = "#eee")` Twitter'
-    url: "https://twitter.com/AlberOmics"
+    url: "https://twitter.com/AlbertOmics"
   - label: '`r fontawesome::fa("github", fill = "#eee")` Github'
-    url: "https://github.com/AlberOmics"
+    url: "https://github.com/AlbertOmics"
   - label:  '`r fontawesome::fa("envelope", fill = "#eee")` Mail'
     url: "mailto:mpantoja@lcg.unam.mx"
 
@@ -34,7 +34,7 @@ library(fontawesome)
 
 |  |  |  |  |
 |:------------------|:------|:--------|:--------|
-| [Synthetic Biology](https://www.ccg.unam.mx/en/synthetic-biology/)|&#124; [CCG](https://www.ccg.unam.mx/), UNAM|&#124; 2021|&#124; Morelos, Mexico
+| [Synthetic Biology](https://www.ccg.unam.mx/en/synthetic-biology/)|&#124; [CCG](https://www.ccg.unam.mx/), UNAM|&#124; 2021-2023|&#124; Morelos, Mexico
 | [Evolutionary Genomics](https://www.ccg.unam.mx/en/evolutionary-genomics/) |&#124; [CCG](https://www.ccg.unam.mx/), UNAM|&#124; 2018-2020 |&#124; Morelos, Mexico |
 <br>
 
